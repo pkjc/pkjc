@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Chobharkar</h1>
-<h3 align="center">A passionate fullstack developer currently working at <a href="https://www.stellantis.com">Stellantis</a> in Michigan, USA.</h3>
+<h3 align="center">A passionate fullstack developer working at <a href="https://www.stellantis.com">Stellantis</a> in Michigan, USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkjc&label=Profile%20views&color=0e75b6&style=flat" alt="pkjc" /> </p>
 
