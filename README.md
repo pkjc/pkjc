@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Pankaj
-#### I am a passionate full-stack software engineer working at [365 Retail Markets](https://365retailmarkets.com/) in Michigan, USA.
+#### I am a full-stack software engineer working at [365 Retail Markets](https://365retailmarkets.com/) in Michigan, USA.
 
 Skills: Java / Spring Boot / JS / React / HTML / CSS / AWS
 
