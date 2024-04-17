@@ -8,8 +8,6 @@ Skills: Java / Spring Boot / JS / React / HTML / CSS / NextJS / AWS / Python
   - building side projects like [FinanceFinds](https://financefinds.pankaj.co) and [favs.page](https://favs.page) for learning and fun
   - taking online courses in basics of AI & ML
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkjc)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/pkjc)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pkjc)
