@@ -1,14 +1,12 @@
 ### Hi there 👋, my name is Pankaj
-#### I am a full-stack software engineer working at [365 Retail Markets](https://365retailmarkets.com/) in Michigan, USA.
+#### I am a full-stack software engineer located in Michigan, USA (originally from India)
 
-Skills: Java / Spring Boot / JS / React / HTML / CSS / AWS
+Skills: Java / Spring Boot / JS / React / HTML / CSS / NextJS / AWS / Python
 
-- 🔭 I’m currently 
-  - working on [favs.page](https://favs.page) - A side project 
-  - learning NextJS and revisiting CS fundamentals 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pankaj.co) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pankajchobharkar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_pankajc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_pankajc) 
+- 🔭 I’m currently
+  - working full-time as a Team Lead at [365 Retail Markets](https://365retailmarkets.com/)
+  - building side projects like [FinanceFinds](https://financefinds.pankaj.co) and [favs.page](https://favs.page) for learning and fun
+  - taking online courses in basics of AI & ML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkjc)](https://github.com/anuraghazra/github-readme-stats)
 
