@@ -1,9 +1,9 @@
 ### 👋 Hi there, my name is Pankaj
 #### I am a full-stack software engineer located in Michigan, USA (originally from India)
-\
+
 Proficient in: Java / Spring Boot / JS / React / HTML / CSS / NextJS / AWS / Python
 Contact me: [Linkedin]([https://365retailmarkets.com/](https://www.linkedin.com/in/pankajchobharkar/))
-\
+
 ### 🔭 I’m currently
 - working full-time as a Team Lead at [365 Retail Markets](https://365retailmarkets.com/)
 - building side projects like [FinanceFinds](https://financefinds.pankaj.co) and [favs.page](https://favs.page) for learning and fun
