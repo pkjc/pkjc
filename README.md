@@ -10,6 +10,5 @@ Proficient in: Java / Spring Boot / JS / React / HTML / CSS / NextJS / AWS / Pyt
 \
 \
 \
-\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkjc)](https://github.com/anuraghazra/github-readme-stats)
 
