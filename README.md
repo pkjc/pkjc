@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pankaj
 #### I am a full-stack software engineer located in Michigan, USA (originally from India)
 
-Skills: Java / Spring Boot / JS / React / HTML / CSS / NextJS / AWS / Python
+Proficient in: Java / Spring Boot / JS / React / HTML / CSS / NextJS / AWS / Python
 
 ### 🔭 I’m currently
 - working full-time as a Team Lead at [365 Retail Markets](https://365retailmarkets.com/)
